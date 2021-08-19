@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "practicaclase12",
+=======
+  "name": "practicaclase10",
+>>>>>>> 84cc8b665da016df967f65d99658c58c87f066aa
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
